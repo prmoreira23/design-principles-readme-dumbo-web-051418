@@ -4,7 +4,7 @@
 
 1. Define "design" in the context of coding.
 2. Explain why design principles are important for you as a programmer.
-3. Learn some of the basic design principles that object orientated programmers employ. 
+3. Learn some of the basic design principles that object oriented programmers employ. 
 
 
 ## What is Code Design and Why Implement It?
